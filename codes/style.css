@@ -773,15 +773,15 @@ form a {
 	transform: translateY(-10px);
 }
 .Faq .ques{
-	background: #D3D3D3;
+	background: #f7e9e9;
 	padding: 3rem;
-	border-radius: 30px;
+	border-radius: 9px;
 	margin-bottom: 5rem;
 	margin-right: 10px;
 	margin-left: 10px;
 	transition: transform 0.3s;
 	box-sizing: border-box;
-	box-shadow: 5px 5px #000;
+	
 }
 .Faq span{
 	color: var(--red);
